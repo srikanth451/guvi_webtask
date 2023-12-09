@@ -1,0 +1,146 @@
+
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.editable-field {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.editable-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.editable-field {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.editable-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  color: #444;
+}
+
+.container {
+  width: 40%; 
+  margin: 30px auto;
+  overflow: hidden;
+  background-color: #666;
+}
+
+
+header {
+  background: #555;
+  color: #fff;
+  padding: 20px 0; 
+  text-align: center;
+}
+
+header h1 {
+  margin: 10px 0; /* Adjusted margin */
+}
+
+/* Navigation styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block; /* Changed to inline-block for better alignment */
+  margin-right: 10px; /* Reduced margin */
+}
+
+nav ul li a {
+  color: #eee; /* Adjusted link color */
+  text-decoration: none;
+}
+
+/* Button styles */
+.btn {
+  display: inline-block;
+  padding: 10px 20px; /* Adjusted padding */
+  margin: 15px 0; /* Adjusted margin */
+  border: none;
+  border-radius: 6px; /* Increased border radius */
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  background-color: #555;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #777; /* Darker background on hover */
+}
+
+/* Form styles */
+form {
+  margin-bottom: 30px; /* Increased margin */
+}
+
+.form-group {
+  margin-bottom: 20px; /* Adjusted margin */
+}
+
+.form-control {
+  width: 90%; /* Adjusted width */
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #999; /* Darker border color */
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 30px 0; /* Increased padding */
+  background: #555;
+  color: #fff;
+}
